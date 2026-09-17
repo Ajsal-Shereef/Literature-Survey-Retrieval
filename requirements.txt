@@ -1,0 +1,18 @@
+# Web Server & Database
+fastapi
+uvicorn
+psycopg_pool
+psycopg[binary]
+langgraph-checkpoint-postgres
+
+# AI & Graph Logic
+langgraph
+langchain
+langchain-openai
+python-dotenv
+pypdf
+
+# Vector Search (Add any others if you use them!)
+faiss-cpu
+langchain_text_splitters
+sentence-transformers
